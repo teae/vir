@@ -2,7 +2,7 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://cdn-buf.virplus.com/$1"}
+    {"src": "/(.*)","dest": "https://www.virplus.com/$1"}
   ],
   "regions": ["sfo1","icn1"]
  }
