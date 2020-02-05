@@ -3,5 +3,5 @@
   "version": 2,
   "routes": [
     {"src": "/(.*)","dest": "http://cdn-buf.virplus.com/$1"}
-  ],
+  ]
  }
