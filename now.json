@@ -4,5 +4,4 @@
   "routes": [
     {"src": "/(.*)","dest": "http://cdn-buf.virplus.com/$1"}
   ],
-  "regions": ["icn1","sfo1"]
  }
