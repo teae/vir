@@ -2,6 +2,6 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "//cdn-buf.virplus.com/$1"}
+    {"src": "/(.*)","dest": "https://cdn-buf.virplus.com/$1"}
   ]
  }
