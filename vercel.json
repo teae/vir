@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://cdn.jsdelivr.net/gh/teae/js/joe/$1"}
+      {"src": "/(.*)","dest": "https://cdn.jsdelivr.net/gh/teae/js/$1"}
     ]
 }
