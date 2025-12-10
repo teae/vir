@@ -2,6 +2,6 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "http://www.65v.net/m/$1"}
+    {"src": "/(.*)","dest": "https://jsd.onmicrosoft.cn/gh/teae/js/joe/$1"}
   ]
  }
